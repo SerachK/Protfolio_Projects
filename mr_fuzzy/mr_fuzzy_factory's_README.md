@@ -39,7 +39,7 @@ I might consider analyzing further the website funnel to better understand which
 **This dashboard provides an overview of [the company's annual revenue](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes) since 2012 , as a key metric to monitor performance:**
 
 
-![Company's Annual Revenue Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes)
+![Company's Annual Revenue Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes).
 
 
 - The first product the company published is "Mr. Fuzzy". This product provided a stable revenue growth over the years.
@@ -50,7 +50,7 @@ I might consider analyzing further the website funnel to better understand which
 **This dashboard displays insights on the products' [cross sale](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsCrossSaleDashboard/ProductsCrossSaleDashboard?publish=yes):**
 
 
-![Products Cross Sale Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsCrossSaleDashboard/ProductsCrossSaleDashboard?publish=yes)
+![Products Cross Sale Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsCrossSaleDashboard/ProductsCrossSaleDashboard?publish=yes).
 
 
 - Product 1 "Mr. Fuzzy" was often bought together with product 3 "Sugar Panda", whereas Product 2 "Love Bear" and Product 4 "Mini Bear" were often bought together with Product 1 "Mr. Fuzzy".
@@ -59,7 +59,7 @@ I might consider analyzing further the website funnel to better understand which
 **The following dashboard showcases the [website's traffic source and device type](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes) used by sessions:**
 
 
-![Marketing Investment Investigation Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes)
+![Marketing Investment Investigation Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes).
 
 
 The top graph showcases the conversion rate of the website's traffic source by order:
@@ -76,7 +76,7 @@ The bottom graph focuses on the device type used by sessions in the marketing so
 The following [AB testing](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes) focuses on whether the new "Lander-1” page attracts more sessions to click through to next page vs "Home" page.
 
 
-![AB Testing Home Lander and Shipping Pages Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes)
+![AB Testing Home Lander and Shipping Pages Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes).
 
 
 - This Tableau dashboard showcases an increase in sessions' click through "Lander-1” page rate, which ultimately led to a revenue growth.  
