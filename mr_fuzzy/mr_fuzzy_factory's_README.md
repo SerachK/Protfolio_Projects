@@ -78,6 +78,9 @@ The following [AB testing](https://public.tableau.com/app/profile/serach.mayerfe
 
 ![AB Testing Home Lander and Shipping Pages Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes)
 
+![AB Testing Home Lander and Shipping Pages Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes)
+
+
 
 - This Tableau dashboard showcases an increase in sessions' click through "Lander-1” page rate, which ultimately led to a revenue growth.  
 
