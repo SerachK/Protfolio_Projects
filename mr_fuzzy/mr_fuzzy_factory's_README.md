@@ -39,7 +39,7 @@ I might consider analyzing further the website funnel to better understand which
 **This dashboard provides an overview of [the company's annual revenue](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes) since 2012 , as a key metric to monitor performance:**
 
 
-![Company's Annual Revenue Dashboard](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes).
+![Products By Year Dashboard](https://github.com/SerachK/Protfolio-Projects/assets/154020723/263a1bb3-1239-47a9-a08e-8f8c191e643c)
 
 
 - The first product the company published is "Mr. Fuzzy". This product provided a stable revenue growth over the years.
