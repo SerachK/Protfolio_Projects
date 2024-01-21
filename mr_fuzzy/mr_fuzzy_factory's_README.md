@@ -32,7 +32,7 @@ To answer these five questions and get some insights, I analyzed Mr. Fuzzy Facto
 - The new page lander-1 showcases effectiveness over homepage and therefore the factory should consider replacing homepage with lander-1 page.
 
 
-I might consider analyzing further the website funnel to better understand which page loses most sessions and create an AB testing to confirm page improvement.
+I would have probably consider analyzing further the website funnel to better understand which page loses most sessions and create an AB testing to confirm page improvement.
 
 
 
