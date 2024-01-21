@@ -24,12 +24,12 @@ To answer these five questions and get some insights, I analyzed Mr. Fuzzy Facto
 
 **My Conclusions:**
 
-•	The four products added a consistent revenue growth since 2012 and attracted clients to buy two or more products.
-•	The analysis presents the effectiveness of "gsearch" and "brand search" as marketing sources, and the factory should consider a budget increase for these two sources.
-•	The marketing source "bsearch" future investment should be monitored and reconsidered.
-•	 Since “Mr. Fuzzy” brand became popular, and more clients are searching for the brand directly in the search engine. This phenomenon can assist the company to decrease marketing expenses in the future.
-•	The factory should decide; Either to focus on desktop users’ ads or find a better source to increase mobile device users’ activity.
-•	The new page lander-1 showcases effectiveness over homepage and therefore the factory should consider replacing homepage with lander-1 page.
+- The four products added a consistent revenue growth since 2012 and attracted clients to buy two or more products.
+- The analysis presents the effectiveness of "gsearch" and "brand search" as marketing sources, and the factory should consider a budget increase for these two sources.
+- The marketing source "bsearch" future investment should be monitored and reconsidered.
+- Since “Mr. Fuzzy” brand became popular, and more clients are searching for the brand directly in the search engine. This phenomenon can assist the company to decrease marketing expenses in the future.
+- The factory should decide; Either to focus on desktop users’ ads or find a better source to increase mobile device users’ activity.
+- The new page lander-1 showcases effectiveness over homepage and therefore the factory should consider replacing homepage with lander-1 page.
 
 
 I might consider analyzing further the website funnel to better understand which page loses most sessions and create an AB testing to confirm page improvement.
@@ -43,6 +43,7 @@ I might consider analyzing further the website funnel to better understand which
 
 
 
+
 - The first product the company published is "Mr. Fuzzy". This product provided a stable revenue growth over the years.
  
 - In 2013, the company launched the products "Love Bear" and "Sugar Panda", and in 2014, the latest product "Mini Bear".
@@ -52,6 +53,7 @@ I might consider analyzing further the website funnel to better understand which
 
 
 <div class='tableauPlaceholder' id='viz1705855289390' style='position: relative'><noscript><a href='#'><img alt='Products Cross Sale Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsCrossSaleDashboard&#47;ProductsCrossSaleDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProductsCrossSaleDashboard&#47;ProductsCrossSaleDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsCrossSaleDashboard&#47;ProductsCrossSaleDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
 
 
 
@@ -81,6 +83,7 @@ The following [AB testing](https://public.tableau.com/app/profile/serach.mayerfe
 
 
 <div class='tableauPlaceholder' id='viz1705855346850' style='position: relative'><noscript><a href='#'><img alt='AB Testing Home&amp;Lander and Shipping Pages Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HomeandLanderPagesABTestingDashboard&#47;ABTestingHomeLanderandShippingPagesDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HomeandLanderPagesABTestingDashboard&#47;ABTestingHomeLanderandShippingPagesDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HomeandLanderPagesABTestingDashboard&#47;ABTestingHomeLanderandShippingPagesDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
 
 
 
