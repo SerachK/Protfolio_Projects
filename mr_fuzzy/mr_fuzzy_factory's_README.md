@@ -38,12 +38,17 @@ As a further investigation I would probably get a deeper look on each website pa
 
 
 
+<div class='tableauPlaceholder' id='viz1705854898250' style='position: relative'><noscript><a href='#'><img alt='Products By Year Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsDashboardbyYear&#47;ProductsByYearDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProductsDashboardbyYear&#47;ProductsByYearDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsDashboardbyYear&#47;ProductsByYearDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
+
+
+
 - The first product the company published was "Mr. Fuzzy". This product provided a stable revenue growth over the years.
  
 - In 2013, the company launched the products "Love Bear" and "Sugar Panda", and in 2014, "Mini Bear".
 
 
-**This dashboard displays insights on the products [cross sale](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsCrossSaleDashboard/ProductsCrossSaleDashboard?publish=yes):**
+**This dashboard displays insights on the products ![cross sale](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsCrossSaleDashboard/ProductsCrossSaleDashboard?publish=yes):**
 
 
 <div class='tableauPlaceholder' id='viz1705855289390' style='position: relative'><noscript><a href='#'><img alt='Products Cross Sale Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsCrossSaleDashboard&#47;ProductsCrossSaleDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProductsCrossSaleDashboard&#47;ProductsCrossSaleDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsCrossSaleDashboard&#47;ProductsCrossSaleDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -54,7 +59,7 @@ As a further investigation I would probably get a deeper look on each website pa
 - Product 1 "Mr. Fuzzy" bought often together with product 3 "Sugar Panda", whereas Product 2 "Love Bear" and Product 4 "Mini Bear" often bought together with Product 1 "Mr. Fuzzy".
 
   
-**The following dashboard showcases the [website traffic source and device type](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes) used by sessions:**
+**The following dashboard showcases the ![website traffic source and device type](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ChannelSourceandDeviceTypeDashboard/MarketingInvestmentInvestigationDashboard?publish=yes) used by sessions:**
 
 
 <div class='tableauPlaceholder' id='viz1705855328761' style='position: relative'><noscript><a href='#'><img alt='Marketing Investment Investigation Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;ChannelSourceandDeviceTypeDashboard&#47;MarketingInvestmentInvestigationDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ChannelSourceandDeviceTypeDashboard&#47;MarketingInvestmentInvestigationDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;ChannelSourceandDeviceTypeDashboard&#47;MarketingInvestmentInvestigationDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -73,7 +78,7 @@ The bottom graph focuses on the device type sessions used in channel "gsearch":
 - Both sections, "Sessions" and "Orders", showcase a consistent website activity growth for desktop users vs mobile device since 2012. 
 
   
-The following [AB testing](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes) focuses on whether the new "Lander-1” page attracts more sessions to click through next page vs "Home" page.
+The following ![AB testing](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes) focuses on whether the new "Lander-1” page attracts more sessions to click through next page vs "Home" page.
 
 
 <div class='tableauPlaceholder' id='viz1705855346850' style='position: relative'><noscript><a href='#'><img alt='AB Testing Home&amp;Lander and Shipping Pages Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HomeandLanderPagesABTestingDashboard&#47;ABTestingHomeLanderandShippingPagesDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HomeandLanderPagesABTestingDashboard&#47;ABTestingHomeLanderandShippingPagesDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HomeandLanderPagesABTestingDashboard&#47;ABTestingHomeLanderandShippingPagesDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
