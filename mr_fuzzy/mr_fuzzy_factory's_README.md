@@ -11,26 +11,26 @@ Product four "Mini Bear" launched in February 2014.
 I based my project on five aspects:
 
 The first aspect focuses on the annual revenue by product, to get an ovelook on the business.
-The second aspect focuses on whether products were often bought together with other products?
+The second aspect focuses on whether products were often bought together with other products.
 The third aspect focuses on the website traffic and the marketing source users commenly used.
 The fourth aspect focuses on the device type used to click on ads.
 The fifth aspect focuses on business oppeturnities to increase growth?
 
-I analyzed Mr. Fuzzy Factory dataset with SQL and Tableau to get some insoights from the data and create the dashboards below.
+I analyzed Mr. Fuzzy Factory dataset with SQL and Tableau to get some insights and create the dashboards below.
 
 
 
 **My Conclusions:**
 
 - The four products added a consistent revenue growth since 2012 by attracting more clients to buy one or more products.
-- The analysis presents the effectiveness of "gsearch" and "brand search" marketing sources, therefore the company should consider focusing on these two channels as the companies main marketing sources.
+- The analysis presents the effectiveness of "gsearch" and "brand search" marketing sources, therefore the company should consider focusing on these two channels as the main marketing source.
 - The marketing source "bsearch" future investment should be monitored and reconsidered.
 - “Mr. Fuzzy” brand became popular, and more clients are now searching for the brand directly in the search engine. Therefore the company might be able to decrease marketing expenses in the near future.
-- The factory should decide to either focus on desktop users ads or find a better source to increase mobile device users activity.
+- The factory should decide to either focus on desktop user ads or find a better source to increase mobile device user activity.
 - The new page lander-1 showcases effectiveness over homepage and therefore the factory should consider replacing homepage with lander-1 page.
 
 
-As a further investigation I would probably get a deeper look on each website page to reduce dropout sessions by creating new pages and confirming improvement with an AB testing.
+As a further investigation I would probably get a deeper look on each website page to reduce dropout sessions by creating new pages and confirming improvement with AB testing.
 
 
 
@@ -43,9 +43,9 @@ As a further investigation I would probably get a deeper look on each website pa
 
 
 
-- The first product the company published was "Mr. Fuzzy". This product provided a stable revenue growth over the years.
+- The first product published was "Mr. Fuzzy". This product provided a stable revenue growth over the years.
  
-- In 2013, the company launched the products "Love Bear" and "Sugar Panda", and in 2014, "Mini Bear".
+- In 2013, the company launched two more products, "Love Bear" and "Sugar Panda", and in 2014, the "Mini Bear".
 
 
 **This dashboard displays insights on the products ![cross sale](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsCrossSaleDashboard/ProductsCrossSaleDashboard?publish=yes):**
@@ -67,15 +67,15 @@ As a further investigation I would probably get a deeper look on each website pa
 
 
 
-The top graph showcases the conversion rate of the website traffic source by order:
+The top graph showcases the order conversion rate of the website traffic source:
 
-- The marketing sources "gsearch" and "brand search" have a consistent growth of 'session to order' conversion rate since 2012. 
--  The marketing source "bsearch" 'session to order' conversion rate, decreased in 2014 as opposed to 2013. 
-- The marketing source "organic search" 'session to order' conversion rate growth consistently increased since 2012. This proves the fact that “Mr. Fuzzy” brand became popular, and more clients are now searching for the brand directly in the search engine. 
+- The marketing sources "gsearch" and "brand search" proved a consistent revenue growth effect since 2012. 
+- The marketing source "bsearch" revenue growth decreased in 2014 compared to 2013. 
+- The marketing source "organic search" proved a consistent revenue growth effect since 2012. This fact shows that “Mr. Fuzzy” as a brand become popular, and more clients are now searching for the brand directly in the search engine. 
  
-The bottom graph focuses on the device type sessions used in channel "gsearch":
+The bottom graph focuses on the device type sessions used in the channel "gsearch":
 
-- Both sections, "Sessions" and "Orders", showcase a consistent website activity growth for desktop users vs mobile device since 2012. 
+- Both sections, "Sessions" and "Orders", showcase a consistent website activity growth for desktop vs mobile device users since 2012. 
 
   
 The following ![AB testing](https://public.tableau.com/app/profile/serach.mayerfeld/viz/HomeandLanderPagesABTestingDashboard/ABTestingHomeLanderandShippingPagesDashboard?publish=yes) focuses on whether the new "Lander-1” page attracts more sessions to click through next page vs "Home" page.
@@ -86,8 +86,10 @@ The following ![AB testing](https://public.tableau.com/app/profile/serach.mayerf
 
 
 
-- This Tableau dashboard showcases the fact that an increase of click through "Lander-1” page rate effects directly the revenue growth.  
+- This Tableau dashboard showcases the fact that the new page "Lander-1” increased the revenue.  
 
  
 
-Working on this dataset provided me with some insights regarding the business. For instance; Which product has high demand? Whether the company is profitable or not? How can we rationalize the sessions process to increase revenue? Each dashboard displayed different insights that led me to the conclusions above. By following my recommendations, the factory can rationalize the business and therefore see an increase of their monthly revenue.
+This dataset provided some business insights. For instance; Which product has high demand? Whether the company is profitable or not? How can we rationalize the funnel process to increase revenue? 
+Each dashboard displayed different insight that led me to the conclusions above. 
+By following my recommendations, the factory can rationalize the business and see an increase of their monthly revenue.
