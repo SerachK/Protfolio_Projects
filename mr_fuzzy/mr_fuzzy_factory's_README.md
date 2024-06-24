@@ -34,11 +34,7 @@ As a further investigation I would probably get a deeper look on each website pa
 
 
 
-**This dashboard provides an overview on [the factory's annual revenue](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes) since 2012 , as a key metric to monitor performance:**
-
-
-<div class='tableauPlaceholder' id='viz1705854898250' style='position: relative'><noscript><a href='#'><img alt='Products By Year Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsDashboardbyYear&#47;ProductsByYearDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProductsDashboardbyYear&#47;ProductsByYearDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProductsDashboardbyYear&#47;ProductsByYearDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-
+**This dashboard provides an overview on ![the factory's annual revenue]([https://example.com/path/to/your/dashboard/screenshot.png](https://public.tableau.com/app/profile/serach.mayerfeld/viz/ProductsDashboardbyYear/ProductsByYearDashboard?publish=yes) since 2012 , as a key metric to monitor performance:**
 
 
 
